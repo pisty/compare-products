@@ -1,0 +1,202 @@
+[
+    {
+        "id": 10001,
+        "name": "Maxtor M3 Hordozható külső HDD",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Maxtor",
+        "price": "19.290 Ft",
+        "width": "40cm",
+        "height": "50cm",
+        "stock": "Raktáron"
+    },
+    {
+        "id": 10002,
+        "name": "Plantronics Explorer 50 Bluetooth headset",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Plantronics",
+        "price": "11.290 Ft",
+        "width": "30cm",
+        "height": "70cm",
+        "stock": "Raktáron"
+    },
+    {
+        "id": 10003,
+        "name": "Samsung UE40J5100 LED Televízió",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Samsung",
+        "price": "110.290 Ft",
+        "width": "20cm",
+        "height": "100cm",
+        "stock": "Raktáron"
+    },
+    {
+        "id": 10005,
+        "name": "Beurer KS28 konyhai mérleg",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Beurer",
+        "price": "10.090 Ft",
+        "width": "20cm",
+        "height": "20cm",
+        "stock": "Nincs raktáron"
+    },
+    {
+        "id": 10006,
+        "name": "Sano Dy Roll On golyós szúnyogriasztó",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Sano",
+        "price": "1.090 Ft",
+        "width": "10cm",
+        "height": "10cm",
+        "stock": "Nincs raktáron"
+    },
+    {
+        "id": 10007,
+        "name": "Fidget spinner stresszoldó csapágyas pörgettyűs játék",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Fidget",
+        "price": "10.090 Ft",
+        "width": "100cm",
+        "height": "100cm",
+        "stock": "Nincs raktáron"
+    },
+    {
+        "id": 10008,
+        "name": "Listerine Total Care Szájvíz",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Listerine",
+        "price": "1.090 Ft",
+        "width": "10cm",
+        "height": "10cm",
+        "stock": "Nincs raktáron"
+    },
+    {
+        "id": 10009,
+        "name": "Magic Mesh mágneses szúnyogháló",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Magic Mesh",
+        "price": "2.090 Ft",
+        "width": "20cm",
+        "height": "20cm",
+        "stock": "Nincs raktáron"
+    },
+    {
+        "id": 10010,
+        "name": "Hauser ultrahangos hidegpárásító",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Hauser",
+        "price": "3.090 Ft",
+        "width": "30cm",
+        "height": "30cm",
+        "stock": "Nincs raktáron"
+    },
+    {
+        "id": 10011,
+        "name": "Continental Premium Contact 5 Nyári gumiabroncs",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Continental",
+        "price": "36.090 Ft",
+        "width": "50cm",
+        "height": "50cm",
+        "stock": "Raktáron"
+    },
+    {
+        "id": 10012,
+        "name": "Ambi Pur Apple & Spice szobaillatosító",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Ambi Pur",
+        "price": "6.090 Ft",
+        "width": "40cm",
+        "height": "40cm",
+        "stock": "Raktáron"
+    },
+    {
+        "id": 10013,
+        "name": "Cooler Master MasterLiquid Pro",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Cooler Master",
+        "price": "3.090 Ft",
+        "width": "40cm",
+        "height": "40cm",
+        "stock": "Raktáron"
+    },
+    {
+        "id": 10014,
+        "name": "Philips hajvágó 5000-es sorozat HC5410/15",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Philips",
+        "price": "30.090 Ft",
+        "width": "20cm",
+        "height": "20cm",
+        "stock": "Raktáron"
+    },
+    {
+        "id": 10015,
+        "name": "Luminarc Authentic 19 részes étkészlet",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Luminarc",
+        "price": "3.090 Ft",
+        "width": "40cm",
+        "height": "40cm",
+        "stock": "Raktáron"
+    },
+    {
+        "id": 10016,
+        "name": "Indesit TLAA 5 hűtőszekrény",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Indesit",
+        "price": "90.090 Ft",
+        "width": "80cm",
+        "height": "200cm",
+        "stock": "Raktáron"
+    },
+    {
+        "id": 10017,
+        "name": "Remington HC5035 ColourCut nyírógép",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Remington",
+        "price": "9.090 Ft",
+        "width": "30cm",
+        "height": "20cm",
+        "stock": "Raktáron"
+    },
+    {
+        "id": 10018,
+        "name": "Daewoo DSB-F1281ELH-V Inverteres split klíma",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Daewoo",
+        "price": "15.090 Ft",
+        "width": "30cm",
+        "height": "20cm",
+        "stock": "Raktáron"
+    },
+    {
+        "id": 10019,
+        "name": "Samsung Galaxy J3 (2016) Mobiltelefon, Kártyafüggetlen",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Samsung",
+        "price": "45.090 Ft",
+        "width": "60cm",
+        "height": "20cm",
+        "stock": "Raktáron"
+    },
+    {
+        "id": 10020,
+        "name": "Transformers Rescue Bot Játékfigura, Optimus Prime",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Hasbro",
+        "price": "5.090 Ft",
+        "width": "60cm",
+        "height": "20cm",
+        "stock": "Raktáron"
+    },
+    {
+        "id": 10021,
+        "name": "Philips epilátor HP6423/00, vezetékes használat",
+        "image": "http://via.placeholder.com/400x400",
+        "manufacturer": "Philips",
+        "price": "15.090 Ft",
+        "width": "60cm",
+        "height": "20cm",
+        "stock": "Raktáron"
+    }
+]
